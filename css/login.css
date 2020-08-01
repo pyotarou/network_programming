@@ -1,0 +1,27 @@
+div {
+    text-align: center;
+}
+.form-group input {
+    width: 300px;
+    margin: 0 auto;
+}
+.btn {
+    color:#e4007f;
+    font-weight: bold;
+    font-size: 30px;
+    border-color: #ddd9dd;
+}
+.btn:hover {
+    background-color: #e4007f;
+    color: white;
+    border: 0;
+}
+.oz-img {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    height: 300px;
+}
+
+#msg {
+    color: red;
+}

@@ -1,0 +1,11 @@
+/* Optional: Makes the sample page fill the window. */
+html, body {
+    margin:0;
+    padding:0;
+    height: 100%;
+    overflow-y:hidden;
+}
+
+div{
+    display: block;
+}

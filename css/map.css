@@ -1,0 +1,46 @@
+#nav-content {
+    margin: 0;
+    padding: 0 20px;
+    height: 5%;
+    background-color: rgb(73, 131, 206);
+    overflow: hidden;
+}
+
+#nav-content h2 {
+    float: left;
+    width: 50%;
+    color: white;
+}
+
+.logout {
+    width: 50%;
+    text-align: right;
+    padding: 10px;
+    float: left;
+}
+
+.logout a {
+    color: white;
+}
+
+#map-content {
+    margin:0;
+    padding:0;
+    position: relative;
+}
+
+#menu {
+    width: 270px;
+    height: 95%;
+    float: left;
+    background-color:#e9e9e9;
+    overflow-y:auto;
+}
+
+#map {
+    width: 100%;
+    height: 95%;
+    float: left;
+    position: relative;
+    overflow: hidden;
+}
